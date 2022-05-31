@@ -1,0 +1,1 @@
+server=DESKTOP-23P3A81;Database=gullu;

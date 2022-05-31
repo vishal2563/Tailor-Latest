@@ -1,0 +1,245 @@
+E:\vishal projects\Gullu\Gullu\bin\Debug\Gullu.exe
+E:\vishal projects\Gullu\Gullu\bin\Debug\Gullu.pdb
+E:\vishal projects\Gullu\Gullu\bin\Debug\Gullu.xml
+E:\vishal projects\Gullu\Gullu\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\vishal projects\Gullu\Gullu\obj\x86\Debug\Gullu.Resources.resources
+E:\vishal projects\Gullu\Gullu\obj\x86\Debug\Gullu.SalesmanMaster.resources
+E:\vishal projects\Gullu\Gullu\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\vishal projects\Gullu\Gullu\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\vishal projects\Gullu\Gullu\obj\x86\Debug\Gullu.exe
+E:\vishal projects\Gullu\Gullu\obj\x86\Debug\Gullu.xml
+E:\vishal projects\Gullu\Gullu\obj\x86\Debug\Gullu.pdb
+E:\vishal projects\Gullu\Gullu\obj\x86\Debug\Gullu.mdi.resources
+E:\vishal projects\Gullu\Gullu\obj\x86\Debug\Gullu.editsalesman.resources
+E:\vishal projects\Gullu\Gullu\obj\x86\Debug\Gullu.Delivery.resources
+E:\vishal projects\Gullu\Gullu\obj\x86\Debug\Gullu.tailormaster.resources
+E:\vishal projects\Gullu\Gullu\obj\x86\Debug\Gullu.edittailormaster.resources
+E:\vishal projects\Gullu\Gullu\obj\x86\Debug\Gullu.deliveryregister.resources
+E:\vishal projects\Gullu\Gullu\obj\x86\Debug\Gullu.Login.resources
+E:\vishal projects\Gullu\Gullu\obj\x86\Debug\Gullu.editusermaster.resources
+E:\vishal projects\Gullu\Gullu\obj\x86\Debug\Gullu.Form1.resources
+E:\vishal projects\Gullu\Gullu\obj\x86\Debug\Interop.Scripting.dll
+E:\vishal projects\Gullu\Gullu\obj\x86\Debug\Gullu.vbproj.ResolveComReference.cache
+D:\VB Dot Net Projects zipzap\Gullu\Gullu\obj\x86\Debug\Interop.Scripting.dll
+D:\VB Dot Net Projects zipzap\Gullu\Gullu\obj\x86\Debug\Gullu.vbproj.ResolveComReference.cache
+D:\VB Dot Net Projects zipzap\Gullu\Gullu\obj\x86\Debug\Gullu.exe
+D:\VB Dot Net Projects zipzap\Gullu\Gullu\obj\x86\Debug\Gullu.xml
+D:\VB Dot Net Projects zipzap\Gullu\Gullu\obj\x86\Debug\Gullu.pdb
+D:\VB Dot Net Projects zipzap\Gullu\Gullu\bin\Debug\Gullu.exe
+D:\VB Dot Net Projects zipzap\Gullu\Gullu\bin\Debug\Gullu.pdb
+D:\VB Dot Net Projects zipzap\Gullu\Gullu\bin\Debug\Gullu.xml
+D:\VB Dot Net Projects zipzap\Gullu\Gullu\obj\x86\Debug\Gullu.vbprojResolveAssemblyReference.cache
+D:\VB Dot Net Projects zipzap\Gullu\Gullu\obj\x86\Debug\Gullu.Delivery.resources
+D:\VB Dot Net Projects zipzap\Gullu\Gullu\obj\x86\Debug\Gullu.deliveryregister.resources
+D:\VB Dot Net Projects zipzap\Gullu\Gullu\obj\x86\Debug\Gullu.editsalesman.resources
+D:\VB Dot Net Projects zipzap\Gullu\Gullu\obj\x86\Debug\Gullu.edittailormaster.resources
+D:\VB Dot Net Projects zipzap\Gullu\Gullu\obj\x86\Debug\Gullu.editusermaster.resources
+D:\VB Dot Net Projects zipzap\Gullu\Gullu\obj\x86\Debug\Gullu.Form1.resources
+D:\VB Dot Net Projects zipzap\Gullu\Gullu\obj\x86\Debug\Gullu.Login.resources
+D:\VB Dot Net Projects zipzap\Gullu\Gullu\obj\x86\Debug\Gullu.mdi.resources
+D:\VB Dot Net Projects zipzap\Gullu\Gullu\obj\x86\Debug\Gullu.Resources.resources
+D:\VB Dot Net Projects zipzap\Gullu\Gullu\obj\x86\Debug\Gullu.SalesmanMaster.resources
+D:\VB Dot Net Projects zipzap\Gullu\Gullu\obj\x86\Debug\Gullu.tailormaster.resources
+D:\VB Dot Net Projects zipzap\Gullu\Gullu\obj\x86\Debug\Gullu.vbproj.GenerateResource.Cache
+E:\vishal projects\Gullu\Gullu\obj\x86\Debug\Gullu.DeliveryStatus.resources
+E:\vishal projects\Gullu\Gullu\bin\Debug\Gullu.exe.config
+E:\vishal projects\Gullu\Gullu\obj\x86\Debug\Gullu.slipprint.resources
+E:\vishal projects\Gullu\Gullu\obj\x86\Debug\Gullu.DescriptionMaster.resources
+E:\vishal projects\Gullu\Gullu\obj\x86\Debug\Gullu.DeliveryStatusRegister.resources
+E:\vishal projects\Gullu\Gullu\obj\x86\Debug\Gullu.DeliveryStatusPrint.resources
+E:\vishal projects\Gullu\Gullu\obj\x86\Debug\Gullu.EditDescription.resources
+D:\VB Dot Net Projects zipzap\Tailor\Gullu\Gullu\bin\Debug\Gullu.exe.config
+D:\VB Dot Net Projects zipzap\Tailor\Gullu\Gullu\obj\x86\Debug\Interop.Scripting.dll
+D:\VB Dot Net Projects zipzap\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.vbproj.ResolveComReference.cache
+D:\VB Dot Net Projects zipzap\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.exe
+D:\VB Dot Net Projects zipzap\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.xml
+D:\VB Dot Net Projects zipzap\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.pdb
+D:\VB Dot Net Projects zipzap\Tailor\Gullu\Gullu\bin\Debug\Gullu.exe
+D:\VB Dot Net Projects zipzap\Tailor\Gullu\Gullu\bin\Debug\Gullu.pdb
+D:\VB Dot Net Projects zipzap\Tailor\Gullu\Gullu\bin\Debug\Gullu.xml
+D:\VB Dot Net Projects zipzap\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.vbprojResolveAssemblyReference.cache
+D:\VB Dot Net Projects zipzap\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.Delivery.resources
+D:\VB Dot Net Projects zipzap\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.deliveryregister.resources
+D:\VB Dot Net Projects zipzap\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.DeliveryStatus.resources
+D:\VB Dot Net Projects zipzap\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.DeliveryStatusPrint.resources
+D:\VB Dot Net Projects zipzap\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.DeliveryStatusRegister.resources
+D:\VB Dot Net Projects zipzap\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.DescriptionMaster.resources
+D:\VB Dot Net Projects zipzap\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.EditDescription.resources
+D:\VB Dot Net Projects zipzap\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.editsalesman.resources
+D:\VB Dot Net Projects zipzap\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.edittailormaster.resources
+D:\VB Dot Net Projects zipzap\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.editusermaster.resources
+D:\VB Dot Net Projects zipzap\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.Form1.resources
+D:\VB Dot Net Projects zipzap\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.Login.resources
+D:\VB Dot Net Projects zipzap\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.mdi.resources
+D:\VB Dot Net Projects zipzap\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.Resources.resources
+D:\VB Dot Net Projects zipzap\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.SalesmanMaster.resources
+D:\VB Dot Net Projects zipzap\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.slipprint.resources
+D:\VB Dot Net Projects zipzap\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.tailormaster.resources
+D:\VB Dot Net Projects zipzap\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.vbproj.GenerateResource.Cache
+D:\VB Dot Net Projects zipzap\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.EDITITEM.resources
+E:\vishal projects\Tailor\Gullu\Gullu\bin\Debug\Gullu.exe.config
+E:\vishal projects\Tailor\Gullu\Gullu\obj\x86\Debug\Interop.Scripting.dll
+E:\vishal projects\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.vbproj.ResolveComReference.cache
+E:\vishal projects\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.exe
+E:\vishal projects\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.xml
+E:\vishal projects\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.pdb
+E:\vishal projects\Tailor\Gullu\Gullu\bin\Debug\Gullu.exe
+E:\vishal projects\Tailor\Gullu\Gullu\bin\Debug\Gullu.pdb
+E:\vishal projects\Tailor\Gullu\Gullu\bin\Debug\Gullu.xml
+E:\vishal projects\Tailor\Gullu\Gullu\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\vishal projects\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.Delivery.resources
+E:\vishal projects\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.deliveryregister.resources
+E:\vishal projects\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.DeliveryStatus.resources
+E:\vishal projects\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.DeliveryStatusPrint.resources
+E:\vishal projects\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.DeliveryStatusRegister.resources
+E:\vishal projects\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.DescriptionMaster.resources
+E:\vishal projects\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.EditDescription.resources
+E:\vishal projects\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.EDITITEM.resources
+E:\vishal projects\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.editsalesman.resources
+E:\vishal projects\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.edittailormaster.resources
+E:\vishal projects\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.editusermaster.resources
+E:\vishal projects\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.Form1.resources
+E:\vishal projects\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.Login.resources
+E:\vishal projects\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.mdi.resources
+E:\vishal projects\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.Resources.resources
+E:\vishal projects\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.SalesmanMaster.resources
+E:\vishal projects\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.slipprint.resources
+E:\vishal projects\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.tailormaster.resources
+E:\vishal projects\Tailor\Gullu\Gullu\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\vishal projects\Tailor\Gullu\Gullu\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Tailor\Gullu\Gullu\bin\Debug\Gullu.exe.config
+D:\Tailor\Gullu\Gullu\obj\x86\Debug\Interop.Scripting.dll
+D:\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.vbproj.ResolveComReference.cache
+D:\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.exe
+D:\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.xml
+D:\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.pdb
+D:\Tailor\Gullu\Gullu\bin\Debug\Gullu.exe
+D:\Tailor\Gullu\Gullu\bin\Debug\Gullu.pdb
+D:\Tailor\Gullu\Gullu\bin\Debug\Gullu.xml
+D:\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.vbprojResolveAssemblyReference.cache
+D:\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.Delivery.resources
+D:\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.deliveryregister.resources
+D:\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.DeliveryStatus.resources
+D:\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.DeliveryStatusPrint.resources
+D:\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.DeliveryStatusRegister.resources
+D:\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.DescriptionMaster.resources
+D:\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.EditDescription.resources
+D:\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.EDITITEM.resources
+D:\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.editsalesman.resources
+D:\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.edittailormaster.resources
+D:\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.editusermaster.resources
+D:\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.Form1.resources
+D:\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.Login.resources
+D:\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.mdi.resources
+D:\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.Resources.resources
+D:\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.SalesmanMaster.resources
+D:\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.slipprint.resources
+D:\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.tailormaster.resources
+D:\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.vbproj.GenerateResource.Cache
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\bin\Debug\Gullu.exe.config
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Interop.Scripting.dll
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.vbproj.ResolveComReference.cache
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.exe
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.xml
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.pdb
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\bin\Debug\Gullu.exe
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\bin\Debug\Gullu.pdb
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\bin\Debug\Gullu.xml
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.Delivery.resources
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.Deliveryold.resources
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.deliveryregister.resources
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.DeliveryStatus.resources
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.DeliveryStatusPrint.resources
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.DeliveryStatusRegister.resources
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.DescriptionMaster.resources
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.EditDescription.resources
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.EDITITEM.resources
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.editsalesman.resources
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.edittailormaster.resources
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.editusermaster.resources
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.Form1.resources
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.Login.resources
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.mdi.resources
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.Resources.resources
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.SalesmanMaster.resources
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.slipprint.resources
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.tailormaster.resources
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.ratemaster.resources
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.EditRateMaster.resources
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.Displayfrm.resources
+E:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.DeliveryDetail.resources
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\bin\Debug\Gullu.exe.config
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Interop.Scripting.dll
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.vbproj.ResolveComReference.cache
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.exe
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.xml
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.pdb
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\bin\Debug\Gullu.exe
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\bin\Debug\Gullu.pdb
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\bin\Debug\Gullu.xml
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.Delivery.resources
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.DeliveryDetail.resources
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.Deliveryold.resources
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.deliveryregister.resources
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.DeliveryStatus.resources
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.DeliveryStatusPrint.resources
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.DeliveryStatusRegister.resources
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.DescriptionMaster.resources
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.Displayfrm.resources
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.EditDescription.resources
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.EDITITEM.resources
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.EditRateMaster.resources
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.editsalesman.resources
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.edittailormaster.resources
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.editusermaster.resources
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.Form1.resources
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.Login.resources
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.mdi.resources
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.Resources.resources
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.ratemaster.resources
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.SalesmanMaster.resources
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.slipprint.resources
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.tailormaster.resources
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\vishal projects\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Tailor Latest\Tailor\Gullu\Gullu\bin\Debug\Gullu.exe.config
+D:\Tailor Latest\Tailor\Gullu\Gullu\bin\Debug\Gullu.exe
+D:\Tailor Latest\Tailor\Gullu\Gullu\bin\Debug\Gullu.pdb
+D:\Tailor Latest\Tailor\Gullu\Gullu\bin\Debug\Gullu.xml
+D:\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Interop.Scripting.dll
+D:\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.vbproj.ResolveComReference.cache
+D:\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.Delivery.resources
+D:\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.DeliveryDetail.resources
+D:\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.Deliveryold.resources
+D:\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.deliveryregister.resources
+D:\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.DeliveryStatus.resources
+D:\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.DeliveryStatusPrint.resources
+D:\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.DeliveryStatusRegister.resources
+D:\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.DescriptionMaster.resources
+D:\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.Displayfrm.resources
+D:\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.EditDescription.resources
+D:\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.EDITITEM.resources
+D:\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.EditRateMaster.resources
+D:\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.editsalesman.resources
+D:\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.edittailormaster.resources
+D:\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.editusermaster.resources
+D:\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.Form1.resources
+D:\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.ItemMaster.resources
+D:\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.Login.resources
+D:\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.mdi.resources
+D:\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.Resources.resources
+D:\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.ratemaster.resources
+D:\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.SalesmanMaster.resources
+D:\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.slipprint.resources
+D:\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.tailormaster.resources
+D:\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.vbproj.GenerateResource.Cache
+D:\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.exe
+D:\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.xml
+D:\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.pdb
+D:\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.vbprojResolveAssemblyReference.cache
+D:\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.DeleiveryStatusReport.resources
+D:\Tailor Latest\Tailor\Gullu\Gullu\obj\x86\Debug\Gullu.PendingBalanceReportvb.resources

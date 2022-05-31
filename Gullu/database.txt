@@ -1,0 +1,174 @@
+
+Create Table UserMaster
+(
+UserId Int,
+UserName Varchar(200),
+Password Varchar(200)
+)
+
+insert into UserMaster values(1,'ADMIN','ADMIN')
+
+
+Create table financeyear
+(
+date1 datetime,
+date2 datetime
+)
+
+insert into financeyear values('2016-04-01','2017-03-31')
+
+
+create table salesman
+(
+smid int,
+smname varchar(300),
+mobile varchar(50)
+)
+
+
+create table tailor
+(
+tid int,
+tname varchar(300),
+compname varchar(300),
+mobile varchar(50)
+)
+
+
+create table description
+(
+did int identity(1,1),
+des varchar(500)
+)
+
+
+create table itemmaster
+(
+itemid int,
+itemname varchar(50),
+charges float
+)
+
+insert into itemmaster values(1,'SUIT','')
+insert into itemmaster values(2,'SAREE','')
+insert into itemmaster values(3,'BLOWSE','')
+insert into itemmaster values(4,'LEHANGA','')
+insert into itemmaster values(5,'CHOLI','')
+insert into itemmaster values(6,'DUPATTA','')
+insert into itemmaster values(7,'GOWN','')
+insert into itemmaster values(8,'DRESS','')
+insert into itemmaster values(9,'SATIN','')
+
+
+
+
+
+
+
+
+
+
+create table ratemaster
+(
+id int,
+itemid int,
+itemname varchar(50),
+did int,
+des varchar(500),
+rate float
+)
+
+
+
+
+
+
+create table delivery
+(
+billno int,
+billdate datetime,
+cstbillno int,
+cstname varchar(300),
+mobile varchar(50),
+smid int,
+smname varchar(300),
+deliverydate datetime,
+itemid int,
+item varchar(50),
+did int,
+description varchar(300),
+qty float,
+tid int,
+tname varchar(300),
+stitchingcharges float,
+totalqty float,
+totalstitching float,
+stitchingrec float,
+stitchingbal float,
+anybalance float,
+)
+
+
+create table deliverystatus
+(
+entryno int,
+billno int,
+billdate datetime,
+cstbillno int,
+cstname varchar(300),
+mobile varchar(50),
+deliveryon datetime,
+itemid int,
+item varchar(50),
+did int,
+description varchar(300),
+totalqty float,
+alreadydelivered float,
+qty float,
+stitchingcharges float,
+tid int,
+tname varchar(300),
+totalamt float,
+alreadyrec float,
+amountrec float
+)
+
+
+
+
+
+create table Bindeliverystatus
+(
+entryno int,
+billno int,
+billdate datetime,
+cstbillno int,
+cstname varchar(300),
+mobile varchar(50),
+deliveryon datetime,
+itemid int,
+item varchar(50),
+did int,
+description varchar(300),
+totalqty float,
+alreadydelivered float,
+qty float,
+stitchingcharges float,
+tid int,
+tname varchar(300),
+totalamt float,
+alreadyrec float,
+amountrec float
+)
+
+
+
+
+
+
+
+
+
+
+
+
